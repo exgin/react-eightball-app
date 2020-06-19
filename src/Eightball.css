@@ -1,0 +1,15 @@
+.Eightball {
+  height: 200px;
+  width: 200px;
+  background-color: #bbb;
+  border-radius: 50%;
+}
+
+.Eightball-text {
+  font-weight: bold;
+  text-align: center;
+}
+
+.Eightball-btn {
+  margin-top: 200px;
+}
